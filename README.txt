@@ -1,0 +1,1 @@
+I also implemented a function "open_matrix" that directly open the text files. You just need to modify the letter of the channel name line 46.
