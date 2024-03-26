@@ -1,4 +1,4 @@
-# Data Compression Algorithms Overview
+# Blahut-Arimoto Algorithm Project Overview
 
 ## Project Summary
 This project presents the implementation and application of the Blahut-Arimoto algorithm in Python. The algorithm is utilized to compute the capacity of discrete memoryless channels (DMCs). By analyzing channel transition probability distributions, the algorithm determines the maximum mutual information between the input and output of the channels.
